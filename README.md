@@ -1,2 +1,2 @@
 # Lariat-Model
-Lariat Data Model-Built out model when given raw data with hypothetical ways the rental car company Lariat could increase their revenue and then presented solutions. Used Excel and Powerpoint.
+Lariat Data Model-Built out model when given raw data with hypothetical ways the fictional rental car company Lariat could increase their revenue and then presented solutions. The model can be changed in certain areas to return certain results for the business. Used Excel and Powerpoint. Excel helped me to comb through the raw data and come up with baseline calculations. Powerpoint was ideal for putting the solutions in a presentable format.
